@@ -1,0 +1,24 @@
+{
+  "name": "gulpbower",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Elena <klsva.el@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-migrate": "^3.0.0",
+    "bootstrap-sass": "^3.3.7",
+    "animate.scss": "*",
+    "font-awesome": "^4.7.0"
+  }
+}
